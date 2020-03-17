@@ -4,10 +4,10 @@
 #
 Name     : perl-HTML-Form
 Version  : 6.07
-Release  : 3
+Release  : 4
 URL      : https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTML-Form-6.07.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTML-Form-6.07.tar.gz
-Summary  : Class that represents an HTML form element
+Summary  : 'Class that represents an HTML form element'
 Group    : Development/Tools
 License  : Artistic-1.0 Artistic-1.0-Perl GPL-1.0
 Requires: perl-HTML-Form-license = %{version}-%{release}
@@ -35,7 +35,6 @@ No detailed description available
 Summary: dev components for the perl-HTML-Form package.
 Group: Development
 Provides: perl-HTML-Form-devel = %{version}-%{release}
-Requires: perl-HTML-Form = %{version}-%{release}
 Requires: perl-HTML-Form = %{version}-%{release}
 
 %description dev
@@ -110,4 +109,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.1/HTML/Form.pm
+/usr/lib/perl5/vendor_perl/5.30.2/HTML/Form.pm
