@@ -4,7 +4,7 @@
 #
 Name     : perl-HTML-Form
 Version  : 6.07
-Release  : 5
+Release  : 6
 URL      : https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTML-Form-6.07.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTML-Form-6.07.tar.gz
 Summary  : 'Class that represents an HTML form element'
@@ -109,4 +109,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/HTML/Form.pm
+/usr/lib/perl5/vendor_perl/5.32.1/HTML/Form.pm
