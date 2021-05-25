@@ -4,7 +4,7 @@
 #
 Name     : perl-HTML-Form
 Version  : 6.07
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTML-Form-6.07.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/O/OA/OALDERS/HTML-Form-6.07.tar.gz
 Summary  : 'Class that represents an HTML form element'
