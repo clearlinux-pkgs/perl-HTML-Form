@@ -1,5 +1,13 @@
 Change history for HTML-Form
 
+6.08      2022-08-14 09:26:10Z
+    - Remove Authority section from dist.ini (GH#27) (Olaf Alders)
+    - Allow buttons to not have a value (GH#8) (Felix Ostmann and Julien Fiegehenn)
+    - The legacy API of FileInput fields now correctly supports setting a
+      custom filename (GH#10) (Gil Magno and Julien Fiegehenn)
+    - Allow undef filename for FileInput if there is a Content header (GH#30)
+      (Julien Fiegehenn)
+
 6.07      2020-02-21 03:50:52Z
     - Restore =head1 NAME section to pod for HTML::Form
 
