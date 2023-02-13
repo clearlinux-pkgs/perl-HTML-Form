@@ -1,8 +1,9 @@
-6.10
+6.11
 perl(HTML::Tagset)
 perl(HTML::TokeParser)
 perl(HTTP::Request)
 perl(HTTP::Request::Common)
 perl(HTTP::Response)
 perl(LWP::MediaTypes)
+perl(Test::Warnings)
 perl(URI)
