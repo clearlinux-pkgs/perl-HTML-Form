@@ -5,7 +5,7 @@
 #
 Name     : perl-HTML-Form
 Version  : 6.11
-Release  : 20
+Release  : 21
 URL      : https://cpan.metacpan.org/authors/id/S/SI/SIMBABQUE/HTML-Form-6.11.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SI/SIMBABQUE/HTML-Form-6.11.tar.gz
 Summary  : 'Class that represents an HTML form element'
